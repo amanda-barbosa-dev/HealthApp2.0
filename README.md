@@ -33,7 +33,7 @@ O *HealthApp* é um sistema desenvolvido para ajudar usuários a lembrarem de to
 3. *Geração de Alarmes:* Com base nos dados fornecidos, o sistema gera automaticamente os horários dos alarmes.
 4. *Notificações:* O sistema notifica o usuário nos horários corretos para garantir que ele tome sua medicação no tempo certo.
    
-    > * **Landing Page do Projeto (Github Pages):** 
+    > * **Landing Page do Projeto (Github Pages):** https://lhkozuki.github.io/HealthApp2.0/landingpage/
     > 
     > * **Vídeo de apresentação do Projeto:**
 
