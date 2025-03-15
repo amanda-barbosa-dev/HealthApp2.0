@@ -1,4 +1,3 @@
-
 # HealthApp2.0  - Sistema de Alarmes para Medicação
 
 ## Descrição
@@ -35,7 +34,7 @@ O *HealthApp* é um sistema desenvolvido para ajudar usuários a lembrarem de to
    
     > * **Landing Page do Projeto (Github Pages):** https://lhkozuki.github.io/HealthApp2.0/landingpage/
     > 
-    > * **Vídeo de apresentação do Projeto:**
+    > * **Vídeo de apresentação do Projeto:** https://www.youtube.com/shorts/pPfngzBqV6w
 
 ## Instalação e Configuração
 Recomendamos a utilização da IDE ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) para a execução do projeto ser leve, flexível, funcionando em Windows, macOS e Linux, e equipado com recursos modernos via extensões. Além de trabalhar perfeitamente com o .NET Command Line Interface (CLI), permitindo criar, compilar e executar projetos C# diretamente pelo terminal integrado. Por exemplo, comandos como `dotnet new`, `dotnet build` e `dotnet run` são fáceis de usar sem sair do ambiente.
